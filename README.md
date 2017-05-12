@@ -75,3 +75,6 @@ Materials for researchers and technologists in the area of Natural Language Proc
 * Information Theory, Inference, and Learning Algorithms
 * The Elements of Statistical Learning
 ## Open Tools ##
+* [OpenNMT](http://opennmt.net/Models/ "OpenNMT")
+* [seq2seq (Google)](https://google.github.io/seq2seq/ "seq2seq")
+* [CoreNLP (Stanford)](https://stanfordnlp.github.io/CoreNLP/ "CoreNLP")
