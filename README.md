@@ -11,6 +11,17 @@ Materials for researchers and technologists in the area of Natural Language Proc
 ## Paper ##
 ### Machine Translation ###
 ### Text Summarization ###
+* Alexander M. Rush, Sumit Chopra, & Jason Wetson. ["A Neural Attention Model for Sentence Summarization.]"() EMNLP 2015.
+* Sumit Chopra, Michael Auli, & Alexander M. Rush. ["Abstractive Sentence Summarization with Attentive Recurrent Neural Networks."]() NAACL 2016.
+* Konstantin Lopyrev. ["Generating News Headlines with Recurrent Neural Networks."]() arXiv:1512.01712 (2015).
+* Ramesh Nallapati, Bowen Zhou, Cicero Nogueira dos santos, Caglar Gulcehre, & Bing Xiang. ["Abstractive Text Summarization using Sequene-to-Sequence RNNs and Beyond."]() arXiv:1602.06023 (2016).
+* Gulcehre, Caglar, Sungjin Ahn, Ramesh Nallapati, Bowen Zhou, and Yoshua Bengio. ["Pointing the Unknown Words."]() arXiv:1603.08148 (2016).
+* Jiatao Gu, Zhengdong Lu, Hang Li, Victor O.K. Li. ["Incorporating Copying Mechanism in Sequence-to-Sequence Learning."]() ACL 2016.
+* Yuta Kikuchi, Graham Neubig, Ryohei Sasano, Hiroya Takamura, and Manabu Okumura. ["Controlling Output Length in Neural Encoder-Decoders."]() arXiv:1609.09552 (2016).
+* Yishu Miao, Phil Blunsom. ["Language as a Latent Variable: Discrete Generative Models for Sentence Compression."]() EMNLP 2016.
+* Wenyuan Zeng, Wenjie Luo, Sanja Fidler, Raquel Urtasun. ["Efficient Summarization with Read-Again and Copy Mechanism."]() arXiv:1611.03382 (2016).
+* Ramesh Nallapati, Feifei Zhai, Bowen Zhou. ["SummaRuNNer: A Recurrent Neural Network based Sequence Model for Extractive Summarization of Documents."]() AAAI 2017.
+* Abigail See, Peter J. Liu and Christopher D. Manning. ["Get To The Point: Summarization with Pointer-Generator Networks."]() ACL 2017.
 ### Machine Reading ###
 ### Dialogue System ###
 ### Memory Network ###
@@ -47,9 +58,17 @@ Materials for researchers and technologists in the area of Natural Language Proc
 * [COCO (Microsoft)](http://mscoco.org/)
 
 ## AI stars & Blogs ##
-* [Andrej Karpathy's blog](http://karpathy.github.io/)
-* []
+* [Andrej Karpathy's](http://karpathy.github.io/)
+* [Colah's blog](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+* [Richard Socher](http://www.socher.org/)
+* [Ian Goodfellow](http://www.iangoodfellow.com/)
+* [Chiyuan Zhang](http://pluskid.org/)
 * [Peter Norvig](http://norvig.com/)
-
+* [Jason Wetson](http://www.thespermwhale.com/jaseweston/)
+* [Noah A. Smith](http://homes.cs.washington.edu/~nasmith/)
+* [Yoav Goldberg](https://www.cs.bgu.ac.il/~yoavg/uni/)
 ## Books ##
+* [Deep Learning Book](http://www.deeplearningbook.org/)
+* Information Theory, Inference, and Learning Algorithms
+* The Elements of Statistical Learning
 ## Open Tools ##
