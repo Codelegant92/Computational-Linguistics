@@ -11,7 +11,7 @@ Materials for researchers and technologists in the area of Natural Language Proc
 ## Paper ##
 ### Machine Translation ###
 ### Text Summarization ###
-* Alexander M. Rush, Sumit Chopra, & Jason Wetson. ["A Neural Attention Model for Sentence Summarization.]"() EMNLP 2015.
+* Alexander M. Rush, Sumit Chopra, & Jason Wetson. ["A Neural Attention Model for Sentence Summarization."]() EMNLP 2015.
 * Sumit Chopra, Michael Auli, & Alexander M. Rush. ["Abstractive Sentence Summarization with Attentive Recurrent Neural Networks."]() NAACL 2016.
 * Konstantin Lopyrev. ["Generating News Headlines with Recurrent Neural Networks."]() arXiv:1512.01712 (2015).
 * Ramesh Nallapati, Bowen Zhou, Cicero Nogueira dos santos, Caglar Gulcehre, & Bing Xiang. ["Abstractive Text Summarization using Sequene-to-Sequence RNNs and Beyond."]() arXiv:1602.06023 (2016).
