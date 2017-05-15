@@ -22,6 +22,7 @@ Materials for researchers and technologists in the area of Natural Language Proc
 * Wenyuan Zeng, Wenjie Luo, Sanja Fidler, Raquel Urtasun. ["Efficient Summarization with Read-Again and Copy Mechanism."](https://openreview.net/pdf?id=HJPmdP9le) arXiv:1611.03382 (2016).
 * Ramesh Nallapati, Feifei Zhai, & Bowen Zhou. ["SummaRuNNer: A Recurrent Neural Network based Sequence Model for Extractive Summarization of Documents."](https://arxiv.org/pdf/1611.04230.pdf) AAAI 2017.
 * Abigail See, Peter J. Liu & Christopher D. Manning. ["Get To The Point: Summarization with Pointer-Generator Networks."](https://nlp.stanford.edu/pubs/see2017get.pdf) ACL 2017.
+* Romain Paulus, Caiming Xiong, & Richard Socher. ["A Deep Reinforced Model for Abstractive Summarization."](https://arxiv.org/pdf/1705.04304.pdf) arXiv:1705.04304 (2017).
 ### Machine Reading ###
 ### Dialogue System ###
 ### Memory Network ###
