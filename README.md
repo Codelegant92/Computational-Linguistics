@@ -15,6 +15,7 @@ Materials for researchers and technologists in the area of Natural Language Proc
 * Sumit Chopra, Michael Auli, & Alexander M. Rush. ["Abstractive Sentence Summarization with Attentive Recurrent Neural Networks."](http://nlp.seas.harvard.edu/papers/naacl16_summary.pdf) NAACL 2016.
 * Konstantin Lopyrev. ["Generating News Headlines with Recurrent Neural Networks."](https://nlp.stanford.edu/courses/cs224n/2015/reports/1.pdf) arXiv:1512.01712 (2015).
 * Ramesh Nallapati, Bowen Zhou, Cicero Nogueira dos santos, Caglar Gulcehre, & Bing Xiang. ["Abstractive Text Summarization using Sequene-to-Sequence RNNs and Beyond."](https://arxiv.org/pdf/1602.06023.pdf) arXiv:1602.06023 (2016).
+* Jianpeng Cheng, & Mirella Lapata. ["Neural Summarization by Extracting Sentences and Words"](https://arxiv.org/pdf/1603.07252.pdf) arXiv:1603.07252 (2016)
 * Gulcehre, Caglar, Sungjin Ahn, Ramesh Nallapati, Bowen Zhou, & Yoshua Bengio. ["Pointing the Unknown Words."](https://arxiv.org/pdf/1603.08148.pdf) arXiv:1603.08148 (2016).
 * Jiatao Gu, Zhengdong Lu, Hang Li, & Victor O.K. Li. ["Incorporating Copying Mechanism in Sequence-to-Sequence Learning."](https://arxiv.org/pdf/1603.06393.pdf) ACL 2016.
 * Yuta Kikuchi, Graham Neubig, Ryohei Sasano, Hiroya Takamura, & Manabu Okumura. ["Controlling Output Length in Neural Encoder-Decoders."](https://arxiv.org/pdf/1609.09552.pdf) arXiv:1609.09552 (2016).
@@ -36,12 +37,20 @@ Materials for researchers and technologists in the area of Natural Language Proc
 * [DUC-2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015](http://tac.nist.gov/data/)
 * [Gigawords](https://catalog.ldc.upenn.edu/LDC2012T21)
 * [LCSTS (Chinese)](http://icrc.hitsz.edu.cn/Article/show/139.html)
-### Machine Reading ###
+### Machine Reading (Q&A) ###
 * [CNN/DailyMail](http://cs.nyu.edu/~kcho/DMQA/)
 * [CNN](http://datasets.maluuba.com/NewsQA)
 * [Marco (Microsoft)](http://www.msmarco.org/)
+* [NewsQA](https://github.com/Maluuba/newsqa)
 * [SQuAD](https://www.aclweb.org/anthology/D16-1264)
 * [bAbI (Facebook)](https://research.fb.com/downloads/babi/)
+* [GraphQuestions](https://github.com/ysu1989/GraphQuestions)
+* [Story Cloze](http://cs.rochester.edu/nlp/rocstories/)
+* [SimpleQuestions](http://suo.im/2eiX0O)
+* [WikiQA](http://suo.im/3aJVyp)
+### Dialogues ###
+* [Ubuntu Dialogue Corpus](http://suo.im/2pbKCC)
+* [Frames](http://datasets.maluuba.com/Frames)
 ### POS Tagger/Parser ###
 * [Penn Treebank](http://www.cis.upenn.edu/~treebank/home.html)
 * [WSJ Corpus](https://catalog.ldc.upenn.edu/LDC2000T43)
