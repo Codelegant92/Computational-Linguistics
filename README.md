@@ -47,6 +47,7 @@ Materials for researchers and technologists in the area of Natural Language Proc
 * [Marco (Microsoft)](http://www.msmarco.org/)
 * [NewsQA](https://github.com/Maluuba/newsqa)
 * [SQuAD](https://www.aclweb.org/anthology/D16-1264)
+* [PD&CFT (Chinese)](http://www.hfl-tek.com/chinese-rc/)
 * [bAbI (Facebook)](https://research.fb.com/downloads/babi/)
 * [GraphQuestions](https://github.com/ysu1989/GraphQuestions)
 * [Story Cloze](http://cs.rochester.edu/nlp/rocstories/)
