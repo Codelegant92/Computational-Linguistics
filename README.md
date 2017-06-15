@@ -11,19 +11,23 @@ Materials for researchers and technologists in the area of Natural Language Proc
 ## Paper ##
 ### Machine Translation ###
 ### Text Summarization ###
-* Alexander M. Rush, Sumit Chopra, & Jason Wetson. ["A Neural Attention Model for Sentence Summarization."](https://arxiv.org/pdf/1509.00685.pdf) EMNLP 2015.
-* Sumit Chopra, Michael Auli, & Alexander M. Rush. ["Abstractive Sentence Summarization with Attentive Recurrent Neural Networks."](http://nlp.seas.harvard.edu/papers/naacl16_summary.pdf) NAACL 2016.
-* Konstantin Lopyrev. ["Generating News Headlines with Recurrent Neural Networks."](https://nlp.stanford.edu/courses/cs224n/2015/reports/1.pdf) arXiv:1512.01712 (2015).
-* Ramesh Nallapati, Bowen Zhou, Cicero Nogueira dos santos, Caglar Gulcehre, & Bing Xiang. ["Abstractive Text Summarization using Sequene-to-Sequence RNNs and Beyond."](https://arxiv.org/pdf/1602.06023.pdf) arXiv:1602.06023 (2016).
-* Jianpeng Cheng, & Mirella Lapata. ["Neural Summarization by Extracting Sentences and Words"](https://arxiv.org/pdf/1603.07252.pdf) arXiv:1603.07252 (2016)
-* Gulcehre, Caglar, Sungjin Ahn, Ramesh Nallapati, Bowen Zhou, & Yoshua Bengio. ["Pointing the Unknown Words."](https://arxiv.org/pdf/1603.08148.pdf) arXiv:1603.08148 (2016).
-* Jiatao Gu, Zhengdong Lu, Hang Li, & Victor O.K. Li. ["Incorporating Copying Mechanism in Sequence-to-Sequence Learning."](https://arxiv.org/pdf/1603.06393.pdf) ACL 2016.
-* Yuta Kikuchi, Graham Neubig, Ryohei Sasano, Hiroya Takamura, & Manabu Okumura. ["Controlling Output Length in Neural Encoder-Decoders."](https://arxiv.org/pdf/1609.09552.pdf) arXiv:1609.09552 (2016).
-* Yishu Miao, Phil Blunsom. ["Language as a Latent Variable: Discrete Generative Models for Sentence Compression."](https://arxiv.org/pdf/1609.07317.pdf) EMNLP 2016.
+#### Sentence Compression ####
+* Alexander M. Rush, Sumit Chopra, & Jason Wetson. ["A Neural Attention Model for Sentence Summarization."] (https://arxiv.org/pdf/1509.00685.pdf) EMNLP 2015.
+* Sumit Chopra, Michael Auli, & Alexander M. Rush. ["Abstractive Sentence Summarization with Attentive Recurrent Neural Networks."] (http://nlp.seas.harvard.edu/papers/naacl16_summary.pdf) NAACL 2016. ["[code]"] (http://github.com/facebook/namas)
+* Konstantin Lopyrev. ["Generating News Headlines with Recurrent Neural Networks."] (https://nlp.stanford.edu/courses/cs224n/2015/reports/1.pdf) arXiv:1512.01712 (2015).
+* Ramesh Nallapati, Bowen Zhou, Cicero Nogueira dos santos, Caglar Gulcehre, & Bing Xiang. ["Abstractive Text Summarization using Sequene-to-Sequence RNNs and Beyond."] (https://arxiv.org/pdf/1602.06023.pdf) arXiv:1602.06023 (2016).
+* Gulcehre, Caglar, Sungjin Ahn, Ramesh Nallapati, Bowen Zhou, & Yoshua Bengio. ["Pointing the Unknown Words."] (https://arxiv.org/pdf/1603.08148.pdf) arXiv:1603.08148 (2016).
+* Jiatao Gu, Zhengdong Lu, Hang Li, & Victor O.K. Li. ["Incorporating Copying Mechanism in Sequence-to-Sequence Learning."] (https://arxiv.org/pdf/1603.06393.pdf) ACL 2016. ["[code]"] (https://github.com/MultiPath/CopyNet)
+* Yuta Kikuchi, Graham Neubig, Ryohei Sasano, Hiroya Takamura, & Manabu Okumura. ["Controlling Output Length in Neural Encoder-Decoders."] (https://arxiv.org/pdf/1609.09552.pdf) arXiv:1609.09552 (2016).
+* Yishu Miao, Phil Blunsom. ["Language as a Latent Variable: Discrete Generative Models for Sentence Compression."] (https://arxiv.org/pdf/1609.07317.pdf) EMNLP 2016.
 * Wenyuan Zeng, Wenjie Luo, Sanja Fidler, Raquel Urtasun. ["Efficient Summarization with Read-Again and Copy Mechanism."](https://openreview.net/pdf?id=HJPmdP9le) arXiv:1611.03382 (2016).
-* Ramesh Nallapati, Feifei Zhai, & Bowen Zhou. ["SummaRuNNer: A Recurrent Neural Network based Sequence Model for Extractive Summarization of Documents."](https://arxiv.org/pdf/1611.04230.pdf) AAAI 2017.
-* Abigail See, Peter J. Liu & Christopher D. Manning. ["Get To The Point: Summarization with Pointer-Generator Networks."](https://nlp.stanford.edu/pubs/see2017get.pdf) ACL 2017.
+#### Single-document Summarization ####
+* Jianpeng Cheng, & Mirella Lapata. ["Neural Summarization by Extracting Sentences and Words"] (https://arxiv.org/pdf/1603.07252.pdf) arXiv:1603.07252 (2016)
+* Ramesh Nallapati, Feifei Zhai, & Bowen Zhou. ["SummaRuNNer: A Recurrent Neural Network based Sequence Model for Extractive Summarization of Documents."] (https://arxiv.org/pdf/1611.04230.pdf) AAAI 2017.
+* Abigail See, Peter J. Liu & Christopher D. Manning. ["Get To The Point: Summarization with Pointer-Generator Networks."](https://nlp.stanford.edu/pubs/see2017get.pdf) ACL 2017. [["code"] (https://github.com/abisee/pointer-generator)]
 * Romain Paulus, Caiming Xiong, & Richard Socher. ["A Deep Reinforced Model for Abstractive Summarization."](https://arxiv.org/pdf/1705.04304.pdf) arXiv:1705.04304 (2017).
+#### Multi-document Summarization ####
+#### Query-based Document Summarization ####
 ### Machine Reading ###
 ### Dialogue System ###
 ### Memory Network ###
