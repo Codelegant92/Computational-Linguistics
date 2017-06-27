@@ -10,6 +10,7 @@ Materials for researchers and technologists in the area of Natural Language Proc
 
 ## Paper ##
 ### Machine Translation ###
+* Ashish Vaswani etc. ["Attention is all you need."](https://arxiv.org/pdf/1706.03762.pdf) arXiv:1706.03762 (2017) [(code1)](https://github.com/tensorflow/tensor2tensor) [(code2)](https://github.com/Kyubyong/transformer) 
 ### Text Summarization ###
 #### Sentence Compression ####
 * Alexander M. Rush, Sumit Chopra, & Jason Wetson. ["A Neural Attention Model for Sentence Summarization."](https://arxiv.org/pdf/1509.00685.pdf) EMNLP 2015.
