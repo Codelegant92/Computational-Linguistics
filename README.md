@@ -78,7 +78,8 @@ Materials for researchers and technologists in the area of Natural Language Proc
 * [COCO (Microsoft)](http://mscoco.org/)
 
 ## AI stars & Blogs ##
-* [Andrej Karpathy's](http://karpathy.github.io/)
+* [Kyunghyun Cho](http://www.kyunghyuncho.me/home)
+* [Andrej Karpathy](http://karpathy.github.io/)
 * [Colah's blog](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [Richard Socher](http://www.socher.org/)
 * [Ian Goodfellow](http://www.iangoodfellow.com/)
@@ -91,6 +92,7 @@ Materials for researchers and technologists in the area of Natural Language Proc
 * [Deep Learning Book](http://www.deeplearningbook.org/)
 * Information Theory, Inference, and Learning Algorithms
 * The Elements of Statistical Learning
+* [The Study of Language](http://ocw.up.edu.ps/كلية التربية/EENG 2314.أ.زلفي بدر الدين .مقدمة في علم اللغويات/the study of language.pdf)
 ## Open Tools ##
 * [OpenNMT](http://opennmt.net/Models/ "OpenNMT")
 * [seq2seq (Google)](https://google.github.io/seq2seq/ "seq2seq")
