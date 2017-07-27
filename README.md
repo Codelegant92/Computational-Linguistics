@@ -88,6 +88,7 @@ Materials for researchers and technologists in the area of Natural Language Proc
 * [Jason Wetson](http://www.thespermwhale.com/jaseweston/)
 * [Noah A. Smith](http://homes.cs.washington.edu/~nasmith/)
 * [Yoav Goldberg](https://www.cs.bgu.ac.il/~yoavg/uni/)
+* [Sebastian Ruder](http://ruder.io/#open)
 ## Books ##
 * [Deep Learning Book](http://www.deeplearningbook.org/)
 * Information Theory, Inference, and Learning Algorithms
