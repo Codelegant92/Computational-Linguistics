@@ -28,6 +28,7 @@ Materials for researchers and technologists in the area of Natural Language Proc
 * Ramesh Nallapati, Feifei Zhai, & Bowen Zhou. ["SummaRuNNer: A Recurrent Neural Network based Sequence Model for Extractive Summarization of Documents."](https://arxiv.org/pdf/1611.04230.pdf) AAAI 2017.
 * Abigail See, Peter J. Liu & Christopher D. Manning. ["Get To The Point: Summarization with Pointer-Generator Networks."](https://nlp.stanford.edu/pubs/see2017get.pdf) ACL 2017. [CODE](https://github.com/abisee/pointer-generator)
 * Romain Paulus, Caiming Xiong, & Richard Socher. ["A Deep Reinforced Model for Abstractive Summarization."](https://arxiv.org/pdf/1705.04304.pdf) arXiv:1705.04304 (2017).
+* Jiwei Tan, Xiaojun Wan, & Jianguo Xiao. ["Abstractive Document Summarization with a Graph-based Attentional Neural Model."](http://aclweb.org/anthology/P/P17/P17-1108.pdf) ACL 2017.
 #### Multi-document Summarization ####
 #### Query-based Document Summarization ####
 ### Machine Reading ###
