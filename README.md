@@ -77,6 +77,7 @@ Materials for researchers and technologists in the area of Natural Language Proc
 * TREC
 * [SemEval](http://alt.qcri.org/semeval2017/index.php?id=tasks)
 * [COCO (Microsoft)](http://mscoco.org/)
+* [Yelp Dataset Challenge](https://www.yelp.com/dataset_challenge)
 
 ## AI stars & Blogs ##
 * [Kyunghyun Cho](http://www.kyunghyuncho.me/home)
