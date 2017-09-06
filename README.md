@@ -38,7 +38,7 @@ Materials for researchers and technologists in the area of Natural Language Proc
 * Jason Weston, Sumit Chopra, & Antoine Bordes. ["Memory networks."](https://arxiv.org/pdf/1410.3916.pdf) ICLR 2014.
 * Sainbayar Sukhbaatar, Jason Weston, & Rob Fergus. ["End-to-end memory networks."](https://arxiv.org/pdf/1503.08895.pdf) NIPS 2015.
 * Ankit Kumar, Ozan Irsoy, Jonathan Su, James Bradbury, Robert English, Brian Pierce, Peter Ondruska, Ishaan Gulrajani, & Richard Socher. ["Ask me anything: Dynamic memory networks for natural language processing."](https://arxiv.org/pdf/1506.07285.pdf) arXiv:1506.07285 (2015).
-### GAN & VAE###
+### GAN & VAE ###
 ## Datasets ##
 ### Text Summarization ###
 * [DUC-2001, 2002, 2003, 2004, 2005, 2006, 2007](http://www-nlpir.nist.gov/projects/duc/data.html)
