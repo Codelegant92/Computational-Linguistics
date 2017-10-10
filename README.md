@@ -8,6 +8,17 @@ Materials for researchers and technologists in the area of Natural Language Proc
 * UC Berkeley CS294: [Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/ "CS294") [(video)](https://www.youtube.com/watch?v=8jQIKgTzQd4&list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX/ "CS294 video")
 * Oxford: [Deep Learning for Natural Language Processing](http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/) [(video)](https://www.youtube.com/watch?v=RP3tZFcC2e8&list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm)
 * deeplearning.ai in Coursera: [Deep Learning Specification](https://www.coursera.org/learn/neural-networks-deep-learning/lecture/)
+## Conferences & Journals ##
+### Conferences ###
+* CCF-A -- **ACL**, NIPS, ICML, IJCAI, AAAI
+* CCF-B -- **EMNLP**, **COLING**, ECAI
+* CCF-C -- **CoNLL**, **NAACL**, **ICDAR**, ICTAI, ICANN, KSEM, ICONIP, ICPR, IJCNN, PRICAI, AISTATS, ACML
+* others -- **EACL**, SEM, IJCNLP, ICSC, NLDB, LDK, PACLING, LTC, ,ICON, ICSC, CICLing
+### Journals ###
+* CCF-A -- **AI**, **TPAMI**, **JMLR**
+* CCF-B -- **TSLP**, **Computational Linguistics**, **TASLP**, **JSLHR**, TAP, DKE, Cybernetics, TFS, TNNLS, JAIR, Machine Learning, Neural Computation, Neural Networks, Pattern Recognition
+* CCF-C -- **TALIP**, **Computer Speech and Language**, **IJDAR**, **NLE**, Applied Intelligence, Artificial Life, Computational Intelligence, EAAI, Expert System, ESWA, Fuzzy Sets and Systems, IJCIA, IJIS, IJNS, IJPRAI, NCA, NPL, Neurocomputing, PAA, PRL
+* others -- **TACL**
 ## Paper ##
 ### Machine Translation ###
 * Ashish Vaswani etc. ["Attention is all you need."](https://arxiv.org/pdf/1706.03762.pdf) arXiv:1706.03762 (2017) [(code1)](https://github.com/tensorflow/tensor2tensor) [(code2)](https://github.com/Kyubyong/transformer) 
@@ -101,14 +112,3 @@ Materials for researchers and technologists in the area of Natural Language Proc
 * [OpenNMT](http://opennmt.net/Models/ "OpenNMT")
 * [seq2seq (Google)](https://google.github.io/seq2seq/ "seq2seq")
 * [CoreNLP (Stanford)](https://stanfordnlp.github.io/CoreNLP/ "CoreNLP")
-## Conferences & Journals ##
-### Conferences ###
-* CCF-A -- **ACL**, NIPS, ICML, IJCAI, AAAI
-* CCF-B -- **EMNLP**, **COLING**, ECAI
-* CCF-C -- **CoNLL**, **NAACL**, **ICDAR**, ICTAI, ICANN, KSEM, ICONIP, ICPR, IJCNN, PRICAI, AISTATS, ACML
-* others -- **EACL**, SEM, IJCNLP, ICSC, NLDB, LDK, PACLING, LTC, ,ICON, ICSC, CICLing
-### Journals ###
-* CCF-A -- **AI**, **TPAMI**, **JMLR**
-* CCF-B -- **TSLP**, **Computational Linguistics**, **TASLP**, **JSLHR**, TAP, DKE, Cybernetics, TFS, TNNLS, JAIR, Machine Learning, Neural Computation, Neural Networks, Pattern Recognition
-* CCF-C -- **TALIP**, **Computer Speech and Language**, **IJDAR**, **NLE**, Applied Intelligence, Artificial Life, Computational Intelligence, EAAI, Expert System, ESWA, Fuzzy Sets and Systems, IJCIA, IJIS, IJNS, IJPRAI, NCA, NPL, Neurocomputing, PAA, PRL
-* others -- **TACL**
