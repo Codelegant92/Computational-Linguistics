@@ -108,7 +108,7 @@ Materials for researchers and technologists in the area of Natural Language Proc
 * CCF-C -- **CoNLL**, **NAACL**, **ICDAR**, ICTAI, ICANN, KSEM, ICONIP, ICPR, IJCNN, PRICAI, AISTATS, ACML
 * others -- **EACL**, SEM, IJCNLP, ICSC, NLDB, LDK, PACLING, LTC, ,ICON, ICSC, CICLing
 ### Journals ###
-* CCF-A -- **AI**, **TPAMI*, **JMLR**
+* CCF-A -- **AI**, **TPAMI**, **JMLR**
 * CCF-B -- **TSLP**, **Computational Linguistics**, **TASLP**, **JSLHR**, TAP, DKE, Cybernetics, TFS, TNNLS, JAIR, Machine Learning, Neural Computation, Neural Networks, Pattern Recognition
 * CCF-C -- **TALIP**, **Computer Speech and Language**, **IJDAR**, **NLE**, Applied Intelligence, Artificial Life, Computational Intelligence, EAAI, Expert System, ESWA, Fuzzy Sets and Systems, IJCIA, IJIS, IJNS, IJPRAI, NCA, NPL, Neurocomputing, PAA, PRL
 * others -- **TACL**
