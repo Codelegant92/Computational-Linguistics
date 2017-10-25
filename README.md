@@ -42,6 +42,7 @@ Materials for researchers and technologists in the area of Natural Language Proc
 * Jiwei Tan, Xiaojun Wan, & Jianguo Xiao. ["Abstractive Document Summarization with a Graph-based Attentional Neural Model."](http://aclweb.org/anthology/P/P17/P17-1108.pdf) ACL 2017.
 * Masaru Isonuma etc. ["Extractive Summarization Using Multi-Task Learning with Document Classification."](http://aclweb.org/anthology/D17-1222) EMNLP 2017.
 #### Multi-document Summarization ####
+* Piji Li etc. ["Cascaded Attention based Unsupervised Information Distillation for Compressive Summarization"](http://aclweb.org/anthology/D17-1220) EMNLP 2017.
 #### Query-based Document Summarization ####
 ### Machine Reading ###
 ### Dialogue System ###
