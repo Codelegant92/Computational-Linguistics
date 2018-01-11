@@ -41,7 +41,7 @@ Materials for researchers and technologists in the area of Natural Language Proc
 * Romain Paulus, Caiming Xiong, & Richard Socher. ["A Deep Reinforced Model for Abstractive Summarization."](https://arxiv.org/pdf/1705.04304.pdf) arXiv:1705.04304 (2017).
 * Jiwei Tan, Xiaojun Wan, & Jianguo Xiao. ["Abstractive Document Summarization with a Graph-based Attentional Neural Model."](http://aclweb.org/anthology/P/P17/P17-1108.pdf) ACL 2017.
 * Masaru Isonuma etc. ["Extractive Summarization Using Multi-Task Learning with Document Classification."](http://aclweb.org/anthology/D17-1222) EMNLP 2017.
-* Angela Fan, David Grangier, & Michael Auli. ["Controllable Abstractive Summarization."](https://arxiv.org/pdf/1711.05217.pdf) arxIV:1711.05217 (2017).
+* Angela Fan, David Grangier, & Michael Auli. ["Controllable Abstractive Summarization."](https://arxiv.org/pdf/1711.05217.pdf) arXiv:1711.05217 (2017).
 #### Multi-document Summarization ####
 * Piji Li etc. ["Cascaded Attention based Unsupervised Information Distillation for Compressive Summarization"](http://aclweb.org/anthology/D17-1220) EMNLP 2017.
 #### Query-based Document Summarization ####
