@@ -60,6 +60,8 @@ Materials for researchers and technologists in the area of Natural Language Proc
 * [DUC-2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015](http://tac.nist.gov/data/)
 * [Gigawords](https://catalog.ldc.upenn.edu/LDC2012T21)
 * [LCSTS (Chinese)](http://icrc.hitsz.edu.cn/Article/show/139.html)
+* [CmapSum](https://github.com/UKPLab/emnlp2017-cmapsum-corpus)
+* [Opinosis](http://kavita-ganesan.com/opinosis-opinion-dataset/#.WliG67XWB0w)
 ### Machine Reading (Q&A) ###
 * [CNN/DailyMail](http://cs.nyu.edu/~kcho/DMQA/)
 * [CNN](http://datasets.maluuba.com/NewsQA)
