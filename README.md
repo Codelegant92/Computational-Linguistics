@@ -118,3 +118,4 @@ Materials for researchers and technologists in the area of Natural Language Proc
 * [OpenNMT](http://opennmt.net/Models/ "OpenNMT")
 * [seq2seq (Google)](https://google.github.io/seq2seq/ "seq2seq")
 * [CoreNLP (Stanford)](https://stanfordnlp.github.io/CoreNLP/ "CoreNLP")
+* [THULAC](https://github.com/thunlp/THULAC-Python)
