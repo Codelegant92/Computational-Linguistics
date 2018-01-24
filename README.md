@@ -8,6 +8,7 @@ Materials for researchers and technologists in the area of Natural Language Proc
 * UC Berkeley CS294: [Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/ "CS294") [(video)](https://www.youtube.com/watch?v=8jQIKgTzQd4&list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX/ "CS294 video")
 * Oxford: [Deep Learning for Natural Language Processing](http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/) [(video)](https://www.youtube.com/watch?v=RP3tZFcC2e8&list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm)
 * deeplearning.ai in Coursera: [Deep Learning Specification](https://www.coursera.org/learn/neural-networks-deep-learning/lecture/)
+* Stanford CS20: [Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/syllabus.html)
 ## Conferences & Journals ##
 ### Conferences ###
 * CCF-A -- **ACL**, NIPS, ICML, IJCAI, AAAI
