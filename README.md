@@ -24,7 +24,7 @@ Materials for researchers and technologists in the area of Natural Language Proc
 ### Meta Learning ###
 * Oriol Vinyals etc. ["Matching Networks for One Shot Learning."](https://arxiv.org/pdf/1606.04080.pdf) arXiv:1606.04080 (2016).
 * Mengye Ren etc. ["Meta-Learning for Semi-supervised Few-shot Classification."](https://arxiv.org/pdf/1803.00676.pdf) ICLR 2018.
-* Chelsea Finn, Pieter Abbeel, & Sergey Levine. ["Model-Agnostic Meta-Learning for Fast Adaption of Deep Networks."] (https://arxiv.org/pdf/1703.03400.pdf) ICML 2017.[(code)](https://github.com/cbfinn/maml)
+* Chelsea Finn, Pieter Abbeel, & Sergey Levine. ["Model-Agnostic Meta-Learning for Fast Adaption of Deep Networks."](https://arxiv.org/pdf/1703.03400.pdf) ICML 2017.[(code)](https://github.com/cbfinn/maml)
 * Zhenguo Li, Fengwei Zhou, Fei Chen, & Hang Li. ["Meta-SGD: Learning to Learn Quickly for Few-Shot Learning."](https://arxiv.org/pdf/1707.09835.pdf) arXiv:1707.09835 (2017). [(code)](https://github.com/foolyc/Meta-SGD)
 * Fengwei Zhou, Bin Wu, & Zhenguo Li. ["Deep Meta-Learning: Learning to Learn in the Concept Space."](https://arxiv.org/pdf/1802.03596.pdf) arXiv:1802.03596 (2018).
 
