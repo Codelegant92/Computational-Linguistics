@@ -21,6 +21,13 @@ Materials for researchers and technologists in the area of Natural Language Proc
 * CCF-C -- **TALIP**, **Computer Speech and Language**, **NLE**, Applied Intelligence, Artificial Life, Computational Intelligence, EAAI, Expert System, ESWA, Fuzzy Sets and Systems, IJCIA, IJIS, IJNS, IJPRAI, NCA, NPL, Neurocomputing, PAA, PRL
 * others -- **TACL**
 ## Paper ##
+### Meta Learning ###
+* Oriol Vinyals etc. ["Matching Networks for One Shot Learning."](https://arxiv.org/pdf/1606.04080.pdf) arXiv:1606.04080 (2016).
+* Mengye Ren etc. ["Meta-Learning for Semi-supervised Few-shot Classification."](https://arxiv.org/pdf/1803.00676.pdf) ICLR 2018.
+* Chelsea Finn, Pieter Abbeel, & Sergey Levine. ["Model-Agnostic Meta-Learning for Fast Adaption of Deep Networks."] (https://arxiv.org/pdf/1703.03400.pdf) ICML 2017.[(code)](https://github.com/cbfinn/maml)
+* Zhenguo Li, Fengwei Zhou, Fei Chen, & Hang Li. ["Meta-SGD: Learning to Learn Quickly for Few-Shot Learning."](https://arxiv.org/pdf/1707.09835.pdf) arXiv:1707.09835 (2017). [(code)](https://github.com/foolyc/Meta-SGD)
+* Fengwei Zhou, Bin Wu, & Zhenguo Li. ["Deep Meta-Learning: Learning to Learn in the Concept Space."](https://arxiv.org/pdf/1802.03596.pdf) arXiv:1802.03596 (2018).
+
 ### Machine Translation ###
 * Ashish Vaswani etc. ["Attention is all you need."](https://arxiv.org/pdf/1706.03762.pdf) arXiv:1706.03762 (2017) [(code1)](https://github.com/tensorflow/tensor2tensor) [(code2)](https://github.com/Kyubyong/transformer) 
 ### Text Summarization ###
@@ -110,6 +117,7 @@ Materials for researchers and technologists in the area of Natural Language Proc
 * [Noah A. Smith](http://homes.cs.washington.edu/~nasmith/)
 * [Yoav Goldberg](https://www.cs.bgu.ac.il/~yoavg/uni/)
 * [Sebastian Ruder](http://ruder.io/#open)
+* [Oriol Vinyals](https://research.google.com/pubs/OriolVinyals.html)
 ## Books ##
 * [Deep Learning Book](http://www.deeplearningbook.org/)
 * Information Theory, Inference, and Learning Algorithms
