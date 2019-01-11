@@ -118,6 +118,7 @@ Materials for researchers and technologists in the area of Natural Language Proc
 * [Yoav Goldberg](https://www.cs.bgu.ac.il/~yoavg/uni/)
 * [Sebastian Ruder](http://ruder.io/#open)
 * [Oriol Vinyals](https://research.google.com/pubs/OriolVinyals.html)
+* [Ehud Reiter](https://ehudreiter.com/)
 ## Books ##
 * [Deep Learning Book](http://www.deeplearningbook.org/)
 * Information Theory, Inference, and Learning Algorithms
