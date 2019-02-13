@@ -119,13 +119,16 @@ Materials for researchers and technologists in the area of Natural Language Proc
 * [Sebastian Ruder](http://ruder.io/#open)
 * [Oriol Vinyals](https://research.google.com/pubs/OriolVinyals.html)
 * [Ehud Reiter](https://ehudreiter.com/)
+
 ## Books ##
 * [Deep Learning Book](http://www.deeplearningbook.org/)
 * Information Theory, Inference, and Learning Algorithms
 * The Elements of Statistical Learning
 * [The Study of Language](http://ocw.up.edu.ps/كلية التربية/EENG 2314.أ.زلفي بدر الدين .مقدمة في علم اللغويات/the study of language.pdf)
+
 ## Open Tools ##
 * [OpenNMT](http://opennmt.net/Models/ "OpenNMT")
 * [seq2seq (Google)](https://google.github.io/seq2seq/ "seq2seq")
 * [CoreNLP (Stanford)](https://stanfordnlp.github.io/CoreNLP/ "CoreNLP")
 * [THULAC](https://github.com/thunlp/THULAC-Python)
+* [StanfordNLP](https://github.com/stanfordnlp/stanfordnlp)
