@@ -23,14 +23,32 @@ Materials for researchers and technologists in the area of Natural Language Proc
 * others -- **TACL**
 ## Paper ##
 ### Meta Learning ###
-* Oriol Vinyals etc. ["Matching Networks for One Shot Learning."](https://arxiv.org/pdf/1606.04080.pdf) arXiv:1606.04080 (2016).
-* Mengye Ren etc. ["Meta-Learning for Semi-supervised Few-shot Classification."](https://arxiv.org/pdf/1803.00676.pdf) ICLR 2018.
+#### Concept ####
+* Jurgen Schmidhuber. ["Learning to Learn - concept."](http://people.idsia.ch/~juergen/diploma.html)
+* Yoshua Bengio, & Samy Bengio. ["Learning a Synaptic Learning Rule."](http://bengio.abracadoudou.com/publications/pdf/bengio_1991_ijcnn.pdf)
+#### Metic-based ####
+* Gregory Koch, Richard Zemel, & Ruslan Salakhutdinov. ["Siamese Neural Networks for One-shot Image Recognition."](http://www.cs.toronto.edu/~gkoch/files/msc-thesis.pdf) ICML 2015. [(code)](https://github.com/Goldesel23/Siamese-Networks-for-One-Shot-Learning)
+* Oriol Vinyals etc. ["Matching Networks for One Shot Learning."](https://arxiv.org/pdf/1606.04080.pdf) arXiv:1606.04080 (2016). [(code)](https://github.com/AntreasAntoniou/MatchingNetworks)
+* Jake Snell, Kevin Swersky, & Richard Zemel. ["Prototypical Networks for Few-shot Learning."](http://papers.nips.cc/paper/6996-prototypical-networks-for-few-shot-learning) NIPS 2017. [(code)](https://github.com/jakesnell/prototypical-networks)
+* Mengye Ren etc. ["Meta-Learning for Semi-supervised Few-shot Classification."](https://arxiv.org/pdf/1803.00676.pdf) ICLR 2018. [(code)](https://github.com/renmengye/few-shot-ssl-public)
+* Flood Sung et al. ["Learning to Compare: Relation Network for Few-shot Learning."](http://openaccess.thecvf.com/content_cvpr_2018/html/Sung_Learning_to_Compare_CVPR_2018_paper.html) CVPR 2018. [(code)](https://github.com/floodsung/LearningToCompare_FSL)
+#### Optimization-based ####
+* Sachin Ravi, & Hugo Larochelle. ["Optimization as a Aodel for Few-shot Learning."](https://openreview.net/pdf?id=rJY0-Kcll) ICLR 2017. [(code)](https://github.com/twitter/meta-learning-lstm)
 * Chelsea Finn, Pieter Abbeel, & Sergey Levine. ["Model-Agnostic Meta-Learning for Fast Adaption of Deep Networks."](https://arxiv.org/pdf/1703.03400.pdf) ICML 2017.[(code)](https://github.com/cbfinn/maml)
 * Zhenguo Li, Fengwei Zhou, Fei Chen, & Hang Li. ["Meta-SGD: Learning to Learn Quickly for Few-Shot Learning."](https://arxiv.org/pdf/1707.09835.pdf) arXiv:1707.09835 (2017). [(code)](https://github.com/foolyc/Meta-SGD)
+* Alex Nichol, Joshua Achiam, & John Schulman. ["On First-order Meta-learning Algorithms."](https://arxiv.org/abs/1803.02999) arXiv 2018.10 [(code)](https://github.com/openai/supervised-reptile)
+* Antreas Antoniou, Harrison, & Amos Storkey. ["How to Train Your MAML."](https://openreview.net/pdf?id=HJGven05Y7) ICLR 2019. [(code)](https://github.com/AntreasAntoniou/HowToTrainYourMAMLPytorch)
+#### Model-based ####
+* Adam Santoro et al. ["Meta-Learning with Memory-Augmented Neural Networks."](http://proceedings.mlr.press/v48/santoro16.pdf) ICML 2016. [(code)](https://github.com/vineetjain96/one-shot-mann)
+* Tsendsuren Munkhdalat, & Hong Yu. ["Meta Networks."](https://arxiv.org/abs/1703.00837) ICML 2017. [(code)](https://bitbucket.org/tsendeemts/metanet)
+#### Orthogonal ####
 * Fengwei Zhou, Bin Wu, & Zhenguo Li. ["Deep Meta-Learning: Learning to Learn in the Concept Space."](https://arxiv.org/pdf/1802.03596.pdf) arXiv:1802.03596 (2018).
-
+* Ruixiang Zhang, Tong Che, Zoubin Ghahramani, Yoshua Bengio, & Yanqiu Song. ["MetaGAN: An Approach to Few-shot Learining."](https://papers.nips.cc/paper/7504-metagan-an-adversarial-approach-to-few-shot-learning.pdf) NIPS 2018.[(code)](https://github.com/sodabeta7)
+#### Meta Learning for Few-shot Learning in NLP ####
+### Semi-supervised Learning and Unsupervised Learning ###
+### Domain Adaptation ###
 ### Machine Translation ###
-* Ashish Vaswani etc. ["Attention is all you need."](https://arxiv.org/pdf/1706.03762.pdf) arXiv:1706.03762 (2017) [(code1)](https://github.com/tensorflow/tensor2tensor) [(code2)](https://github.com/Kyubyong/transformer) 
+* Ashish Vaswani et al. ["Attention is all you need."](https://arxiv.org/pdf/1706.03762.pdf) arXiv:1706.03762 (2017) [(code1)](https://github.com/tensorflow/tensor2tensor) [(code2)](https://github.com/Kyubyong/transformer) 
 ### Text Summarization ###
 #### Sentence Compression ####
 * Alexander M. Rush, Sumit Chopra, & Jason Wetson. ["A Neural Attention Model for Sentence Summarization."](https://arxiv.org/pdf/1509.00685.pdf) EMNLP 2015.
