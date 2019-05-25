@@ -9,6 +9,7 @@ Materials for researchers and technologists in the area of Natural Language Proc
 * Oxford: [Deep Learning for Natural Language Processing](http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/) [(video)](https://www.youtube.com/watch?v=RP3tZFcC2e8&list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm)
 * deeplearning.ai in Coursera: [Deep Learning Specification](https://www.coursera.org/learn/neural-networks-deep-learning/lecture/)
 * Stanford CS20: [Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/syllabus.html)
+* NTU in Cousera: [Machine Learning Founations](https://www.coursera.org/learn/ntumlone-mathematicalfoundations)
 ## Conferences & Journals ##
 ### Conferences ###
 * CCF-A -- **ACL**, NIPS, ICML, IJCAI, AAAI
@@ -125,6 +126,7 @@ Materials for researchers and technologists in the area of Natural Language Proc
 * Information Theory, Inference, and Learning Algorithms
 * The Elements of Statistical Learning
 * [The Study of Language](http://ocw.up.edu.ps/كلية التربية/EENG 2314.أ.زلفي بدر الدين .مقدمة في علم اللغويات/the study of language.pdf)
+* [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 
 ## Open Tools ##
 * [OpenNMT](http://opennmt.net/Models/ "OpenNMT")
@@ -132,3 +134,4 @@ Materials for researchers and technologists in the area of Natural Language Proc
 * [CoreNLP (Stanford)](https://stanfordnlp.github.io/CoreNLP/ "CoreNLP")
 * [THULAC](https://github.com/thunlp/THULAC-Python)
 * [StanfordNLP](https://github.com/stanfordnlp/stanfordnlp)
+* [torchtext](https://torchtext.readthedocs.io/en/latest/)
