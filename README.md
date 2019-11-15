@@ -10,7 +10,7 @@ Materials for researchers and technologists in the area of Natural Language Proc
 * Oxford: [Deep Learning for Natural Language Processing](http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/) [(video)](https://www.youtube.com/watch?v=RP3tZFcC2e8&list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm)
 * deeplearning.ai in Coursera: [Deep Learning Specification](https://www.coursera.org/learn/neural-networks-deep-learning/lecture/)
 * Stanford CS20: [Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/syllabus.html)
-* NTU in Cousera: [Machine Learning Founations](https://www.coursera.org/learn/ntumlone-mathematicalfoundations)
+* NTU in Cousera: [Machine Learning Foundations](https://www.coursera.org/learn/ntumlone-mathematicalfoundations)
 ## Conferences & Journals ##
 ### Conferences ###
 * CCF-A -- **ACL**, NIPS, ICML, IJCAI, AAAI
